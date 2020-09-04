@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/components/modals-window", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/components/inputs-textarea", {data:[{},{}],fetch:[],mutations:[]});

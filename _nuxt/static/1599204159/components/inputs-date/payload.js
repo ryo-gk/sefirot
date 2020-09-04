@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/components/inputs-date", {data:[{},{}],fetch:[],mutations:[]});

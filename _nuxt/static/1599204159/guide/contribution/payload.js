@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/guide/contribution", {data:[{},{}],fetch:[],mutations:[]});

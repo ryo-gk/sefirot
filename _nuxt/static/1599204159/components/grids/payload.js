@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/components/grids", {data:[{},{}],fetch:[],mutations:[]});
